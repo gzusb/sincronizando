@@ -7,6 +7,5 @@
 </head>
 <body>
     <h1>Lo nuevo</h1>
-    <p>Lo que hay que saber sobre el HTML</p>
 </body>
 </html>
