@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>Lo nuevo</h1>
+    <p>Bienvenido</p>
+    <footer>Contacto</footer>
 </body>
 </html>
